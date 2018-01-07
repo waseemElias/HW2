@@ -11,7 +11,7 @@ visit the following site for details :  https://www.thespruce.com/step-by-step-b
 			5. Batter
 			6. Suggar 
 
-		##Steps :
+## Steps : ma3nato hai el applicaton habal shoof 
 			- Step 1 : Melting Chocolate or Other Ingredient Preparation
 			- Step 2 : Mix the Dry Ingredients
 			- Step 3 : Cream the Butter and Sugar
