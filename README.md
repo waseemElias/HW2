@@ -2,8 +2,7 @@
 
 visit the following site for details :  https://www.thespruce.com/step-by-step-basic-cake-recipe-304553
 
-
-  ##	materials : 
+## materials : 
 			1. chocolate
 			2. eggs
 			3. milk
