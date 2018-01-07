@@ -21,4 +21,4 @@ visit the following site for details :  https://www.thespruce.com/step-by-step-b
 			- Step 8 :   Bake and Cool the Cakes
 			- Step 9: The Finished Product
 
-![Image of github's cat](/images/Chocolate_Cake.jpg)
+![Image of github's cat](/images/Chocolate_Cake.png)
